@@ -1,0 +1,56 @@
+{
+  "locadora": [
+    {
+      "id": "5405ade0-10a2-fc5c-6fba-c07ff4a8b197",
+      "titulo": "Interestelar",
+      "genero": "Ficção científica/Aventura",
+      "lancamento": "2014-11-06",
+      "idioma": "Inglês/Português",
+      "diretor": "Christopher Nolan",
+      "sinopse": "As reservas naturais da Terra estão chegando ao fim e um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie. Cooper é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos. Ao lado de Brand, Jenkins e Doyle, ele seguirá em busca de um novo lar.",
+      "imdb": "https://www.imdb.com/title/tt0816692/",
+      "avaliacao": "10/10",
+      "legendado": "false",
+      "url": "https://i2.wp.com/astropt.org/blog/wp-content/uploads/2013/12/interstellar-christopher-nolan-poster.jpg"
+    },
+    {
+      "id": "08363beb-e8a1-92a3-d784-0a5fa5914979",
+      "titulo": "Vingadores: Ultimato",
+      "genero": "Ação/Ficção científica",
+      "lancamento": "2018-04-26",
+      "idioma": "Inglês/Português",
+      "diretor": "Joe Russo, Anthony Russo",
+      "sinopse": "Homem de Ferro, Thor, Hulk e os Vingadores se unem para combater seu inimigo mais poderoso, o maligno Thanos. Em uma missão para coletar todas as seis pedras infinitas, Thanos planeja usá-las para infligir sua vontade maléfica sobre a realidade.",
+      "imdb": "https://www.imdb.com/title/tt4644488/",
+      "avaliacao": "10/10",
+      "legendado": "true",
+      "url": "https://i.pinimg.com/564x/1e/51/69/1e5169f21b80786a87abb6059a9f3abd.jpg"
+    },
+    {
+      "id": "f6a4b305-8c48-cc02-9992-a8335261c4cf",
+      "titulo": "Dragon Ball Super",
+      "genero": " Ação/Fantasia",
+      "lancamento": "2019-01-03",
+      "idioma": "Japonês/Português",
+      "diretor": "Tatsuya Nagamine",
+      "sinopse": "Apesar da Terra estar em um período de calmaria, Goku se recusa a parar de treinar constantemente. O que ele não imaginava era que seu novo inimigo seria Broly, um poderoso super saiyajin sedento por vingança, que deseja destruir todos que encontrar pela frente...",
+      "imdb": "https://www.imdb.com/title/tt4644488/",
+      "avaliacao": "10/10",
+      "legendado": "false",
+      "url": "http://www.itaguari.com.br/wp-content/uploads/2019/01/Dragon-Ball-Super-Broly-633x1024.jpg"
+    },
+    {
+      "id": "f6a4b305-8c48-dc02-9992-b8335261c4ce",
+      "titulo": "Homem Aranha",
+      "genero": "Ação/Aventura",
+      "sinopse": "When bitten by a genetically modified spider, a nerdy, shy, and awkward high school student gains spider-like abilities that he eventually must use to fight evil as a superhero after tragedy befalls his family.\n EN",
+      "lancamento": "2021-05-02",
+      "idioma": "Português",
+      "diretor": " Sam Raimi",
+      "imdb": "https://www.imdb.com/title/tt0145487/",
+      "avaliacao": "100/10",
+      "legendado": "true",
+      "url": "https://i.ebayimg.com/images/g/vh0AAOSwSKtae7R5/s-l640.jpg"
+    }
+  ]
+}
