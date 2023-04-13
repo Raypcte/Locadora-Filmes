@@ -25,32 +25,3 @@ Palavras chaves: Sistema de Administração, adicionar, listar, editar e remover
  * Axios
  * json-server
  * SCSS
- 
- ## Como iniciar a aplicação localmente
- 
- ### Faça um clone desse repositório
- 
- ```
- git clone https://github.com/rafaabatistas/locadora-de-filmes.git
- ```
- 
-### Instale as dependências
-
-```
- yarn install
- ```
- 
- ### Inicie o json-server
- 
- ```
- yarn server
- ```
- 
- ### Dê start ao projeto
- 
- ```
- yarn build
- yarn start
- ```
- 
- 
